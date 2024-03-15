@@ -1,5 +1,3 @@
-Note when turning private: Make the Deploy from Branch (in Settings > Pages) refer to the gh-pages branch!
-
 
 # al-folio
 
