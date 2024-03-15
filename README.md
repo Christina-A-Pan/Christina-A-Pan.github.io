@@ -1,3 +1,6 @@
+Note when turning private: Make the actions refer to the gh-page branch!
+
+
 # al-folio
 
 <div align="center">
